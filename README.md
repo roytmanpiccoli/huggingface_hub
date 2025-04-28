@@ -62,7 +62,7 @@ pip install huggingface_hub
 
 If you prefer, you can also install it with [conda](https://huggingface.co/docs/huggingface_hub/en/installation#install-with-conda).
 
-In order to keep the package minimal by default, `huggingface_hub` comes with optional dependencies useful for some use cases. For example, if you want have a complete experience for Inference, run:
+In order to keep the package minimal by default, `huggingface_hub` comes with optional dependencies useful for some use cases. For example, if you want to have a complete experience for inference, run:
 
 ```bash
 pip install huggingface_hub[inference]
@@ -136,11 +136,11 @@ upload_folder(
 )
 ```
 
-For details in the [upload guide](https://huggingface.co/docs/huggingface_hub/en/guides/upload).
+See more details in the [upload guide](https://huggingface.co/docs/huggingface_hub/en/guides/upload).
 
-## Integrating to the Hub.
+## Integrating with the Hub
 
-We're partnering with cool open source ML libraries to provide free model hosting and versioning. You can find the existing integrations [here](https://huggingface.co/docs/hub/libraries).
+We're partnering with cool open-source ML libraries to provide free model hosting and versioning. You can find the existing integrations [here](https://huggingface.co/docs/hub/libraries).
 
 The advantages are:
 
@@ -157,6 +157,6 @@ If you would like to integrate your library, feel free to open an issue to begin
 ## Contributions (feature requests, bugs, etc.) are super welcome 💙💚💛💜🧡❤️
 
 Everyone is welcome to contribute, and we value everybody's contribution. Code is not the only way to help the community.
-Answering questions, helping others, reaching out and improving the documentations are immensely valuable to the community.
+Answering questions, helping others, reaching out and improving the documentation are immensely valuable to the community.
 We wrote a [contribution guide](https://github.com/huggingface/huggingface_hub/blob/main/CONTRIBUTING.md) to summarize
 how to get started to contribute to this repository.
